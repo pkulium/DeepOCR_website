@@ -161,8 +161,7 @@ Training configuration:
 **Rationale for freezing DeepEncoder:**
 
 1. **Stability**: SAM and CLIP are already well-trained on massive datasets
-2. **Efficiency**: Reduces trainable parameters from 7.4B to ~7.0B
-3. **Memory**: Enables training on modest GPU infrastructure (2× H200)
+2. **Memory**: Enables training on modest GPU infrastructure (2× H200)
 
 ### 3.3 Training Optimizations
 
