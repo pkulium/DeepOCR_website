@@ -1,6 +1,6 @@
 # Technical Report-v1: DeepOCR 
 
-Author: Ming Liu(pkulium@iastate.edu)
+Author: Ming Liu(pkulium@iastate.edu), Shilong Liu(sl8264@princeton.edu)
 
 [https://github.com/pkulium/DeepOCR](https://github.com/pkulium/DeepOCR)
 
