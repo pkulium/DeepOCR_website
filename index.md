@@ -170,7 +170,6 @@ Training configuration:
 - ZeRO-3 optimization for distributed training
 - Gradient checkpointing to reduce activation memory
 - Mixed precision training (bfloat16)
-- Activation offloading for large batches
 
 **Distributed Training:**
 
