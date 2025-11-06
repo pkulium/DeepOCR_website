@@ -22,6 +22,9 @@ This reproduction makes three key contributions:
 
 ## 2. Architecture Design
 
+![DeepOCR Architecture](deep_seek.png)
+*Figure source: DeepSeek (2025). DeepSeek-OCR: Contexts Optical Compression [1]*
+
 ### 2.1 DeepEncoder: The Core Vision Encoder
 
 Our implementation faithfully reproduces DeepSeek-OCR's novel DeepEncoder architecture, which addresses five critical requirements for optical compression:
