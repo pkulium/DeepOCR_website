@@ -97,8 +97,6 @@ For tiled images, we implement 2D spatial structure encoding:
 While the original DeepSeek-OCR uses DeepSeek-3B-MoE (570M activated parameters), our reproduction employs Qwen2-7B-Instruct for several practical reasons:
 
 - **Framework compatibility**: Better integration with VILA training pipeline
-- **Pre-training quality**: Strong vision-language alignment from Qwen2-VL
-- **Community adoption**: Widely used baseline for fair comparison
 - **Accessibility**: Fully open-source with permissive licensing
 
 This substitution represents a reasonable trade-off between reproduction fidelity and practical implementation constraints.
