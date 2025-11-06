@@ -2,7 +2,7 @@
 
 Author: Ming Liu(pkulium@iastate.edu)
 
-https://github.com/pkulium/DeepOCR
+[https://github.com/pkulium/DeepOCR](https://github.com/pkulium/DeepOCR)
 
 ## Abstract
 
@@ -188,7 +188,7 @@ We discovered a critical distributed training bug where different ranks took dif
 
 OmniDocBench is a comprehensive document parsing benchmark covering diverse document types and parsing tasks.
 
-![image.png](attachment:2f9a5fb7-9117-4ce2-b42d-79e2ae86e4e0:image.png)
+![OmniDocBench Results](omni_doc_bench.png)
 
 **Analysis:**
 
@@ -203,7 +203,8 @@ OmniDocBench is a comprehensive document parsing benchmark covering diverse docu
 
 The olmOCR benchmark tests diverse document understanding capabilities across eight categories.
 
-![image.png](attachment:a8da33a4-f8f0-44f2-bc3a-ead5216b6508:image.png)
+![olmOCR Results](olm_bench.png)
+
 
 **Strengths:**
 
