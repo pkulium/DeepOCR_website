@@ -1,3 +1,5 @@
-title: DeepOCR_website
+title: DeepOCR
 description: Open-source reproduction of DeepSeek-OCR
 theme: jekyll-theme-cayman
+github:
+  repository_url: https://github.com/pkulium/DeepOCR
